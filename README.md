@@ -23,11 +23,11 @@
 <p align="left">
 <a href="https://dev.to/waltertaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="waltertaya" height="30" width="40" /></a>
 <a href="https://twitter.com/@Walter5mitty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@walter5mitty" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/walter-onyango-a58181250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/walter-onyango-a58181250" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/walter-onyango-a58181250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/walter-onyango-a58181250" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22220039/waltertaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22220039/waltertaya" height="30" width="40" /></a>
 <a href="https://instagram.com/walter5_mitty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="walter5_mitty" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/waltertaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="waltertaya" height="30" width="40" /></a>
-<a href="https://discord.gg/waltertaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="waltertaya" height="30" width="40" /></a>
+<a href="https://discord.com/waltertaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="waltertaya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
