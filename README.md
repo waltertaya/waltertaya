@@ -1,9 +1,10 @@
-<h1 align="center">Hello! 👋, I'm Walter Onyango</h1>
+<h1 align="center">Hello! 👋, I'm Waltertaya</h1>
 <h3 align="center">A passionate Computer scientist student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waltertaya&label=Profile%20views&color=0e75b6&style=flat" alt="waltertaya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waltertaya=dracula" alt="waltertaya" /></a> </p>
+<h3 align="left">🏆 Github Trophies:</h3>
+	<p align="center">
+	<img src="https://github-profile-trophy.vercel.app/?username=waltertaya&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="99%" />
 
 - 🌱 I’m currently learning **machine learning**
 
@@ -37,4 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waltertaya&show_icons=true&locale=en" alt="waltertaya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waltertaya&" alt="waltertaya" /></p>
+
