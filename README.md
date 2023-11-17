@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 👨‍💻 All of my projects are available at [https://waltertaya.github.io/waltertaya-portfolio-//](https://waltertaya.github.io/waltertaya-portfolio-/)
+- 👨‍💻 All of my projects are available at [https://waltertaya.github.io/waltertaya-portfolio-/](https://waltertaya.github.io/waltertaya-portfolio-/)
 
 - 💬 Ask me about **python,html,css,java**
 
