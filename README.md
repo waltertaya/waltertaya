@@ -38,5 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waltertaya&show_icons=true&locale=en" alt="waltertaya" /></p>
 
-
-
+[![committers.top badge](https://user-badge.committers.top/kenya_private/waltertaya.svg)](https://user-badge.committers.top/kenya_private/waltertaya)
