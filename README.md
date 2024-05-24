@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://waltertaya.github.io/waltertaya-portfolio-/](https://waltertaya.github.io/waltertaya-portfolio-/)
 
-- 💬 Ask me about **python,html,css,java**
+- 💬 Ask me about **python,html,css,java, express-js, flask, django, django-rest-framework, nodejs**
 
 - 📫 How to reach me **waltermittybecker5@gmail.com**
 
