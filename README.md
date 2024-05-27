@@ -6,11 +6,9 @@
 	<p align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=waltertaya&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="99%" />
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **backend development**
 
-- 👨‍💻 All of my projects are available at [https://waltertaya.github.io/waltertaya-portfolio-/](https://waltertaya.github.io/waltertaya-portfolio-/)
-
-- 💬 Ask me about **python,html,css,java, express-js, flask, django, django-rest-framework, nodejs**
+- 💬 Ask me about **python, express-js, flask, django, django-rest-framework, nodejs**
 
 - 📫 How to reach me **waltermittybecker5@gmail.com**
 
